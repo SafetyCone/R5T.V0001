@@ -1,3 +1,0 @@
-R5T.V0001.Construction - Construction project for Tests verifying C# language and standard library behaviors..
-
-GOALS:

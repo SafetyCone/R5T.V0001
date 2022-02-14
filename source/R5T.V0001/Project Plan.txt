@@ -1,3 +1,7 @@
 R5T.V0001 - Tests verifying C# language and standard library behaviors.
 
-GOALS:
+
+### Prior work:
+
+See examinations here: https://github.com/SafetyCone/Public/tree/master/Source/Experiments/CSharp
+(C:\Organizations\Minex\Repositories\Public\Source\Experiments\CSharp)
