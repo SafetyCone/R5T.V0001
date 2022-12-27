@@ -5,4 +5,7 @@
     <NoWarn>1591;1573</NoWarn>
     <CheckEolTargetFramework>false</CheckEolTargetFramework>
   </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\R5T.T0142\source\R5T.T0142\R5T.T0142.csproj" />
+  </ItemGroup>
 </Project>
